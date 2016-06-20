@@ -1,8 +1,8 @@
 Products.DCWorkflow Changelog
 =============================
 
-2.2.4-slc (unreleased)
-------------------
+2.2.4-slc (2016-06-20)
+----------------------
 
 - Export and import workflow managed groups.
 
